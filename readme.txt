@@ -1,4 +1,4 @@
- === Plugin Name ===
+ === Paymentwall for Woocommerce ===
 Contributors: Paymentwall
 Tags: payment, paymentgateway, woocommerce, ecommerce
 Requires at least: 3.8 & WooCommerce 2.0+
@@ -27,6 +27,8 @@ Paymentwall is the leading all-in-one global payments platform for digital goods
     * The **Project key** and Secret key are located in your "Paymentwall Merchant Area --> My Projects".
     * The **Widget Code** is located at the Widgets page.
 6. Click the **Save Changes** button
+
+View our full installation guide: <https://www.paymentwall.com/us/documentation/WooCommerce/1409>
 
 == Screenshots ==
 
