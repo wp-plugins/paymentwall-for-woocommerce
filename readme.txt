@@ -32,7 +32,7 @@ View our full installation guide: <https://www.paymentwall.com/us/documentation/
 
 == Screenshots ==
 
-1. paymentwall-setting Paymentwall Settings Page
+1. Screenshot 1 - Paymentwall Settings Page
 
 == Changelog ==
 
